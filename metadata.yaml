@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '35817'
     url: http://www.gutenberg.org/2009/agents/35817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32383#Two-Wyoming-Girls-and-Their-Homestead-Claim--A-Story-for-Girls
 gutenberg_issued: '2010-05-15'
 gutenberg_type: Text
 identifiers:
