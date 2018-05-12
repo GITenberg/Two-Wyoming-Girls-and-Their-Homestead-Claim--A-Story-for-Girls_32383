@@ -1,0 +1,33 @@
+_repo: Two-Wyoming-Girls-and-Their-Homestead-Claim--A-Story-for-Girls_32383
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Waugh, Ida
+    deathdate: 1919
+    gutenberg_agent_id: '35818'
+    url: http://www.gutenberg.org/2009/agents/35818
+covers:
+- cover_type: archival
+  image_path: 32383-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Marshall, Caroline Louise
+    alias: Marshall, Carrie L.
+    birthdate: 1849
+    gutenberg_agent_id: '35817'
+    url: http://www.gutenberg.org/2009/agents/35817
+description: ''
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Homestead law -- West (U.S.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Juvenile fiction'
+title: 'Two Wyoming Girls and Their Homestead Claim: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/32383
